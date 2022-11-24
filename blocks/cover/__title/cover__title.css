@@ -11,7 +11,7 @@
   .cover__title {
     max-width: 400px;
     font-size: 52px;
-    margin: 0 auto 27px;
+    margin-bottom: 27px;
   }
 }
 
@@ -20,6 +20,6 @@
     max-width: 288px;
     line-height: 1.1;
     font-size: 32px;
-    margin: 0 auto 16px;
+    margin-bottom: 16px;
   }
 }
